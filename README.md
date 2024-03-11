@@ -10,8 +10,10 @@
 - Dart
 - State Management (BLoC, Provider) ⚙️
 - Git
-- JavaScript (Basic)
-- HTML/CSS (currently learning)
+- JavaScript
+- HTML/CSS
+- Tailwind CSS
+- React (currently learning)
 
 ** I'm always up for new challenges and learning opportunities!**
 
