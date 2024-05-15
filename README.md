@@ -1,19 +1,16 @@
+# Shahidul Dewoan
+
+<h2 align="center">Languages, Tools and Frameworks</h2>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,vscode,github,linux,gitlab,html,css,tailwindcss,js,react,nodejs,docker" />
+</div>
+
 ** Hi, I'm Shahidul Deowan, a Flutter developer with a passion for crafting apps that make a difference.**
 
 ** Building beautiful and engaging mobile experiences is my forte.**
 
 ** I love the creative process of turning ideas into visually stunning apps that users love to interact with.**
-
-️ My toolkit includes:
-
-- Flutter (2.5 years of experience)
-- Dart
-- State Management (BLoC, Provider) ⚙️
-- Git
-- JavaScript
-- HTML/CSS
-- Tailwind CSS
-- React (currently learning)
 
 ** I'm always up for new challenges and learning opportunities!**
 
